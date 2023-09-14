@@ -9,13 +9,21 @@ int main(){
 
     for(int i = 0; i < n ; i++){
 
+        char ch ;
+
         for(int j = 0 ; j<i+1; j++){
 
-            char ch = j + 1 + 'A' - 1;
+            ch =  j + 1 + 'A' - 1;
             cout<<ch;
 
         }
 
+        for(char alp = ch ; alp>'A';){
+
+            alp--;
+            cout<<alp;
+
+        }
         cout<<endl;
 
     }
