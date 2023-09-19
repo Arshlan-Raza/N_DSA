@@ -15,7 +15,7 @@ int createNumber(int n) {
 
 }
 
-int main() {
+int main() { 
 
     int numberOfDigits ;
 
