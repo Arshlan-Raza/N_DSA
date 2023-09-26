@@ -15,9 +15,11 @@ int createNumber(int n) {
 
 }
 
+// 
+
 int main() { 
          
-    int numberOfDigits ;
+    int numberOfDigits ; 
 
     int res = createNumber(numberOfDigits)
 
