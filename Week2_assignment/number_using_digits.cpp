@@ -21,7 +21,7 @@ int main() {
          
     int numberOfDigits ; 
 
-    int res = createNumber(numberOfDigits)
+    int res = createNumber(numberOfDigits);
 
     
     
