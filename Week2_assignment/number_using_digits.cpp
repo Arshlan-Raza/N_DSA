@@ -15,7 +15,7 @@ int createNumber(int n) {
 
 }
 
-// 
+// i want to code so badly  but my exams are going on  
 
 int main() { 
          
