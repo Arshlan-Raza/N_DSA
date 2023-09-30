@@ -15,7 +15,7 @@ int createNumber(int n) {
 
 }
 
-// the blessings of Allah has been taken away from me 
+// He found you lost and guided you 
 
 int main() { 
          
