@@ -15,7 +15,7 @@ int createNumber(int n) {
 
 }
 
-// He found you lost and guided you 
+// Sickness wipes your sins 
 
 int main() { 
          
