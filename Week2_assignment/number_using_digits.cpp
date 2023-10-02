@@ -15,7 +15,7 @@ int createNumber(int n) {
 
 }
 
-// Sickness wipes your sins 
+// Have no fear , Allah is indeed with you
 
 int main() { 
          
