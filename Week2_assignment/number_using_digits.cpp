@@ -15,7 +15,8 @@ int createNumber(int n) {
 
 }
 
-// Have no fear , Allah is indeed with you
+// If My servants ask you about Me, well, I am near; I answer the prayer of the supplicant when he calls to Me. 
+// Let them then respond to Me, and believe in Me, so that they may follow the right way.
 
 int main() { 
          
