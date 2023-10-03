@@ -1,3 +1,6 @@
+// If My servants ask you about Me, well, I am near; I answer the prayer of the supplicant when he calls to Me.
+// Let them then respond to Me, and believe in Me, so that they may follow the right way.
+
 #include<iostream>
 
 using namespace std;
