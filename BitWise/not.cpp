@@ -15,7 +15,7 @@ int main(){
     cout<<~(n)<<endl;
     cout<<(~n)<<endl;
 
-    for(int i  =0 ; i < 3 ; i--){
+    for(int i  =0 ; i < 3 ; i--){   
         cout<<i;
     }
 
