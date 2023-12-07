@@ -14,3 +14,5 @@ int main(){
     cout<<n<<endl;
     return 0;
 }
+
+// just finished my code typing with the examples 
