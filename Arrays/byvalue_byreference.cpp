@@ -15,4 +15,3 @@ int main(){
     return 0;
 }
 
-// just finished my code typing with the examples 
