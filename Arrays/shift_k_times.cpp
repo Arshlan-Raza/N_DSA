@@ -18,7 +18,7 @@ int shiftArray (int arr[],int n , int k){
          i = n - 1;
         for(;i > 1 ; i--){
             arr[i] = arr[i-k];
-        }
+        }   
 
         for(int i = 0 ; i < k ; i++){
             arr[i] = temp[i];
