@@ -30,7 +30,7 @@ int shiftArray (int arr[],int n , int k){
         }
 }
 
-int main(){
+int main(){ 
     int arr[] = {10,20,30,40,50,60,70,80};
     int n = 8;
     int k = 4;
