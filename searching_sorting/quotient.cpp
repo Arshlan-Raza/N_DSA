@@ -8,6 +8,14 @@ int getQuotient(int divisor , int dividend){
     int ans = -1 ;
     int mid = s + (e - s)/2;
 
+    if(divisor == 0){
+        cout<<"infinity"<<endl;
+        return 0;
+    }
+    if(dividend == 0){
+        return 0;
+    }
+
     while(s <= e){
         if(mid * divisor == dividend){
             return mid ;
@@ -25,7 +33,7 @@ int getQuotient(int divisor , int dividend){
 }
 
 int main(){
-    int divisor = 25;
+    int divisor = 0;
     int dividend = 625;
 
     int ans = getQuotient (abs(divisor),abs(dividend));
