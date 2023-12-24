@@ -31,4 +31,4 @@ int main(){
     vector<int> v = {44,55,66,25,26,27,28};
     int ans = findMin(v);
     cout<<"Minimum element is :"<<v[ans];
-}
+}   
