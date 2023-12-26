@@ -1,17 +1,13 @@
-//{ Driver Code Starts
-// Initial template for C++
 
 #include<bits/stdc++.h>
 using namespace std;
 
 
-// } Driver Code Ends
-//User function template in C++
 
 class Solution 
 {
     public:
-    //Function to find minimum number of pages.
+    
     bool isPossibleSolution(int A[],int N, int M , int sol){
         int pageSum = 0;
         int  c = 1;
@@ -33,6 +29,7 @@ class Solution
         return true;
     }
     
+    //Function to find minimum number of pages.
     int findPages(int A[], int N, int M) 
     {
         //code here
