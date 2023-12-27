@@ -20,7 +20,7 @@ class Solution
                 pageSum = A[i];
                 if(c > M){
                     return false;
-                }
+                } 
             }
             else{
                 pageSum += A[i];
