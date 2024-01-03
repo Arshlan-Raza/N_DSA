@@ -26,7 +26,7 @@ double myPrecision(int n){
         double sqrt = mySqrt(n);
 
         double step = 0.1;
-        int precision = 5;
+        int precision = 3;
 
         for(int i = 0 ; i < precision ; i++){
             double j = sqrt ;
