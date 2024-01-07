@@ -16,7 +16,7 @@ int binarySearch(int arr[] , int n, int  target){
         else if(target < arr[mid]){
             // left me jao 
             end = mid - 1;
-        }
+        }  
         // always update mid 
         mid = (start + end)/2;
     }
