@@ -1,3 +1,4 @@
+/*
 class Solution {
 public:
     string decodeMessage(string key, string message) {
@@ -26,3 +27,5 @@ public:
         return ans ;
     }
 };
+
+*/
