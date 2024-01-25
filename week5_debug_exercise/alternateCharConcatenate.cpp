@@ -20,7 +20,7 @@ string mergeAlternately(string word1, string word2) {
                 result.push_back(word1[i++]);
             }
             if (j < n) {
-                result.push_back(word2[j++]);
+                result.push_back(word2[j++]);   
             }
         }
 
