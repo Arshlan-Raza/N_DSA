@@ -24,7 +24,7 @@ string mergeAlternately(string word1, string word2) {
             }
         }
 
-        return result;
+        return result;  
 }
 
 int main() {
