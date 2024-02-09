@@ -1,9 +1,12 @@
-for(int j = 0 ; j < 2*i +2 ; j++){
-            
-        //     cout<<" ";
-
+ // j = j - 1;
+        // z = (ch-1)/2;
+        // while(z>=1){
+        //     j = j - 1;
+        //     cout<<j;
+        //     z = z - 1;
         // }
-        // for(int j = 0 ; j < n-i -1-1; j++){
-
-        //     cout<<"*";
+        // k = 1;
+        // while(k<=gaps/2){
+        //     cout<<" ";
+        //     k = k + 1;
         // }
